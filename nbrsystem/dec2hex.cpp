@@ -21,7 +21,7 @@ void convert(int num) {
 }
 int main() {
    int num;
-   cout<<"enter decimal digit";
+   cout<<"enter decimal digit:-";
    cin>>num;
    cout<<num<< " converted to hexadeciaml: ";
    convert(num);
