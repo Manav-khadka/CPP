@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 long long  dec2bin(int);
 
