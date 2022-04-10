@@ -33,11 +33,11 @@ int main()
     cin>>num;
     if (strongnbr(num))
     
-        cout<<"strong number";
+        cout<<"strong number\n";
     
     else
     
-        cout<<"non strong number";
+        cout<<"non strong number\n";
     
     
     
